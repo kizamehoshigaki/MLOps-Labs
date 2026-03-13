@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/aadik/Documents/MLOps-Labs/mlflow_lab/mlruns/715627971173153863/7a5bf60f93c649dd9c6ca94aad023c7b/artifacts
+end_time: 1773388255713
+entry_point_name: ''
+experiment_id: '715627971173153863'
+lifecycle_stage: active
+run_id: 7a5bf60f93c649dd9c6ca94aad023c7b
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773388244432
+status: 3
+tags: []
+user_id: aadik

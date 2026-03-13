@@ -1,0 +1,7 @@
+artifact_location: file:C:/Users/aadik/Documents/MLOps-Labs/mlflow_lab/mlruns/715627971173153863
+creation_time: 1773388243895
+experiment_id: '715627971173153863'
+last_update_time: 1773388243895
+lifecycle_stage: active
+name: breast_cancer_classification
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/aadik/Documents/MLOps-Labs/mlflow_lab/mlruns/715627971173153863/c31b1b49f8d94f4bb9839fe1db61cd4a/artifacts
+end_time: 1773388273129
+entry_point_name: ''
+experiment_id: '715627971173153863'
+lifecycle_stage: active
+run_id: c31b1b49f8d94f4bb9839fe1db61cd4a
+run_name: rf_grid_search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773388264261
+status: 3
+tags: []
+user_id: aadik

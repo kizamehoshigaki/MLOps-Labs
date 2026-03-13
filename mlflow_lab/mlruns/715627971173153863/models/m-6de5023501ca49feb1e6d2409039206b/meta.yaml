@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/aadik/Documents/MLOps-Labs/mlflow_lab/mlruns/715627971173153863/models/m-6de5023501ca49feb1e6d2409039206b/artifacts
+creation_timestamp: 1773388245230
+experiment_id: '715627971173153863'
+last_updated_timestamp: 1773388255696
+model_id: m-6de5023501ca49feb1e6d2409039206b
+model_type: null
+name: model
+source_run_id: 7a5bf60f93c649dd9c6ca94aad023c7b
+status: 2
+status_message: null

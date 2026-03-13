@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/aadik/Documents/MLOps-Labs/mlflow_lab/mlruns/715627971173153863/0835a32c1f7d47e091b97027930a608f/artifacts
+end_time: 1773388259815
+entry_point_name: ''
+experiment_id: '715627971173153863'
+lifecycle_stage: active
+run_id: 0835a32c1f7d47e091b97027930a608f
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773388255719
+status: 3
+tags: []
+user_id: aadik
