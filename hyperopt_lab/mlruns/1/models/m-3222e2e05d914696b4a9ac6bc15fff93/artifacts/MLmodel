@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/aadik/Documents/MLOps-Labs/hyperopt_lab/mlruns/1/models/m-3222e2e05d914696b4a9ac6bc15fff93/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-3222e2e05d914696b4a9ac6bc15fff93
+model_size_bytes: 592068
+model_uuid: m-3222e2e05d914696b4a9ac6bc15fff93
+prompts: null
+run_id: 91a3ff55ca9b4ddf931e8c9420aa9466
+utc_time_created: '2026-04-11 05:22:39.016350'
